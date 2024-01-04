@@ -1,6 +1,6 @@
  
 💬 Tenho conhecimento em:
- Java | Angular | HTML | CSS | Javascript |  PostgreSQL | Git |  
+ Java | Angular | HTML | CSS | Javascript |  PostgreSQL | MongoDB| Git |  
  
 
 📫 Como entrar em contato comigo: 
